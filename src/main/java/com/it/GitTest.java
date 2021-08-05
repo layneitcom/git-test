@@ -6,7 +6,6 @@ public class GitTest {
         System.out.println("gitTest");
         System.out.println("git 1");
         System.out.println("git 2");
-        System.out.println("git 3");
 
 
     }
